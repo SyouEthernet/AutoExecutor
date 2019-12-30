@@ -1,3 +1,11 @@
 {
-    "waitTime": 43200
+    "waitTime": 43200,
+    "bmob": {
+        "apiId": "BMOB_APPID",
+        "restKey": "BMOB_KEY"
+    }, 
+    "jpush": {
+        "key": "JPUSH_KEY",
+        "secret": "JPUSH_SECRET"
+    }
 }
